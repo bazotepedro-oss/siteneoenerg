@@ -1,0 +1,17 @@
+.lfr-layout-structure-item-basic-component-image {
+  height: auto !important;
+}
+
+.neo-breadcrumb {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 14px;        
+  padding: 0;
+}
+.neo-breadcrumb li {
+  display: inline-block;
+}
+.neo-breadcrumb li a {
+  vertical-align: bottom;
+  color: var(--brand-color-1);				
+}

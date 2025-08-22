@@ -1,0 +1,57 @@
+body {
+  font-family: "Iberpangea", sans-serif;
+  font-weight: 400;
+}
+
+html:not(#__):not(#___)
+  .page-editor__layout-viewport--size-desktop
+  .page-editor__layout-viewport__resizer {
+  overflow-x: hidden;
+}
+
+.component-paragraph a {
+  color: var(--brand-color-1);
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Iberpangea", sans-serif;
+  font-weight: 700;
+}
+
+.neo_distributors_itern_page .nav-link {
+  width: 100%;
+}
+
+.neo_distributors_itern_page .nav-link:hover {
+  text-decoration: underline !important;
+}
+
+.btn {
+  border-radius: 24px !important;
+}
+
+.lfr-layout-structure-item-basic-component-image {
+  overflow: hidden !important;
+  height: auto !important;
+}
+.lfr-layout-structure-item-container {
+  padding: var(--spacer-0) !important;
+}
+a {
+  color: var(--brand-color-1);
+}
+
+a:hover {
+  color: var(--brand-color-2);
+  text-decoration: underline;
+}
+
+.video{
+  box-shadow: none !important;
+}
